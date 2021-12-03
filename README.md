@@ -1,8 +1,9 @@
-<h2> Hey, I'm Kornel!</h1>
+<h2> Hi there, I'm Kornel! 👋</h1>
 
-<p align="center">
-  I'm a master's student from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> Warsaw, Poland pursuing an MPhil in Advanced Computer Science at 🎓 University of Cambridge.
-</p> 
+  I'm a master's student from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> Warsaw, Poland pursuing an MPhil in Advanced Computer Science at 🎓 University of Cambridge. 
+  
+  At the moment, I have a particular interest in Fairness, Accountability and Transparency (FAccT) of Machine Learning and Machine Vision.
+  
 
 <h2>Technology Stack</h2>
 
